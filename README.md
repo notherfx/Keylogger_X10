@@ -15,3 +15,7 @@ Si no estás familiarizado con las leyes de tu país relacionadas con el uso y d
 ## USO EN LOCAL
 
 **Este keylogger está diseñado para ser usado en local, por temas de legalidad, pueden probar en entornos controlados modificando el código y permaneciendo en escucha**
+
+## REQUISITOS
+- Python3
+- Windows OS
